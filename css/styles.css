@@ -1,0 +1,54 @@
+.home{
+    background-image: url(/images/chad-montano-MqT0asuoIcU-unsplash\ \(1\).jpg);
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.gif1{
+    width: 140px;
+    height: 140px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+}
+
+.gif2{
+    width: 140px;
+    height: 140px;
+    float: right;
+    padding-top: 20px; 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 120px;
+    color: thistle;
+}
+    
+
+.home p{
+    text-align: center;
+    font-size: 32px;
+    color: white;
+}
+.pizza{
+    padding-top: 350px;
+    background-color: rgba(20, 30, 40, 0.5);
+    height: 100vh;
+}
+.col-md-8{
+    background-color: black;
+    color: white;
+    height: 40vh;
+}
+h2{
+    font-size: 40px;
+    color: yellowgreen;
+}
+.col-md-8 p{
+    font-size: 30px;
+    text-align: center;
+}

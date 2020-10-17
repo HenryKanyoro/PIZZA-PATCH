@@ -40,9 +40,9 @@ h1{
     height: 100vh;
 }
 .col-md-8{
-    background-color: rgba(20, 30, 40, 0.5);
+    
     color: white;
-    height: 40vh;
+    
 }
 h2{
     text-align: center;
@@ -51,13 +51,21 @@ h2{
 h3{
     font-size: 40px;
     color: yellowgreen;
+    text-align: center;
 }
 .col-md-8 p{
     font-size: 30px;
     text-align: center;
 }
 .col-md-3 img {
-    widows: 360px;
-    height: 360px;
+    widows: 280px;
+    height: 280px;
+    padding-top: 20px;
+}
+#sizes p{
+    padding-top: 80px;
+}
+#raw{
+    background-color: rgba(20, 30, 40, 0.5);
 }
 

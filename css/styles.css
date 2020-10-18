@@ -1,3 +1,9 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: black;
+    }
+  }
+  
 .home{
     background-image: url(/images/chad-montano-MqT0asuoIcU-unsplash\ \(1\).jpg);
     background-size: cover;
@@ -6,8 +12,8 @@
 }
 
 .gif1{
-    width: 140px;
-    height: 140px;
+    width: 80px;
+    height: 80px;
     float: left;
     margin-left: 20px;
     margin-right: 20px;
@@ -15,8 +21,8 @@
 }
 
 .gif2{
-    width: 140px;
-    height: 140px;
+    width: 80px;
+    height: 80px;
     float: right;
     padding-top: 20px; 
     margin-left: 20px;
@@ -24,7 +30,7 @@
 }
 h1{
     text-align: center;
-    font-size: 120px;
+    font-size: 80px;
     color: thistle;
 }
     

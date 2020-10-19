@@ -173,7 +173,7 @@ $(document).ready(function() {
             let location = $("input#location").val();
 
             if ($("input#name").val() && $("input#phone").val() && $("input#location").val() != "") {
-                $("#finallmessage").append(person + "Your order has been recieved and will be delivered to " + location + ". Your bill is ksh . " + deliceryAmount);
+                $("#finallmessage").append(person + " Your order has been recieved and will be delivered to " + location + ". Your bill is ksh . " + deliceryAmount);
                 $("#totalbill").hide();
                 $("#finallmessage").slideDown(1200);
             } else {

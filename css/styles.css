@@ -121,6 +121,9 @@ h3{
       background: black;
       color: white;
   }
-  #cost{
+  .order{
+      text-align: center;
+  }
+  .flavor{
       text-align: center;
   }

@@ -13,6 +13,7 @@
  {HTML for creating website}
  {css for styling website}
  {js for making the website more atractive}
+ {jQuery to style the work}
 ## Copyright and License
 MIT License
 Copyright (c) [2020] [Henry Kanyoro Ndono]

@@ -8,7 +8,7 @@
 * on github click the link and you ready to go.
 ### Git Hub Live Link
 *click to view the Pizza Patch Website*
- {https://github.com/HenryKanyoro/Portfolio}
+ {https://github.com/HenryKanyoro/PIZZA-PATCH}
  ## Technologies used
  {HTML for creating website}
  {css for styling website}
